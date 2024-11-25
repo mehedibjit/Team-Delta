@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Local Dining Guide
 
 Web Based Dining Information Solution
@@ -11,6 +9,34 @@ provide users with comprehensive dining information, making it easy for them to 
 and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking
 for new culinary experiences or a traveller seeking the best dining spots in town, Local
 Dining Guide has got you covered.
+
+![Project Logo](https://as2.ftcdn.net/v2/jpg/03/00/68/93/1000_F_300689337_Mpsp4QbAhv8P3yt3Y6pvjiPgvaF2Uuyh.jpg) 
+---
+
+## Table of Contents
+- Introduction
+- Development Technology
+- Features
+- Getting Started
+- Usage
+- Contributors
+- Contact Information
+
+---
+
+## Introduction
+Local Dining Guide is a user-friendly platform that aims to connect users with local dining options. It provides a rich and intuitive interface to:
+- Search for restaurants.
+- View their menus and detailed profiles.
+- Read and write reviews.
+- Save favourite restaurants.
+- Get directions seamlessly.
+
+![Project Logo](https://cdn.dribbble.com/users/9998935/screenshots/17648108/behance_b.jpg)
+
+
+## License
+This project is licensed under the [MIT License.](https://www.bjitacademy.com)
 
 
 # Development Technology
@@ -119,4 +145,7 @@ Connect with us on your favorite platforms:
 
 We hope you enjoy using **Local Dining Guide** to discover fantastic dining options in your area!  
 **Bon appétit!**
+
+
+
 
