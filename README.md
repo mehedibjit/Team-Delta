@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Local Dining Guide
 
@@ -25,6 +26,7 @@ Dining Guide has got you covered.
 **2. Express.js** (Web application frameworks)  
 **3. MongoDB** or **PostgreSQL** (Database management)  
 **4. Geocoding APIs** (for mapping and location data)
+
 
 
 
@@ -98,4 +100,23 @@ Thank you to the following contributors who have helped to improve this project:
 
 
 
+# Contact Information
+
+## Contact Us
+
+
+For any inquiries or support, please email us at [support@localdiningguide.com](mailto:support@localdiningguide.com) or visit our website: [http://www.localdiningguide.com](http://www.localdiningguide.com).
+
+## Follow Us on Social Media
+
+Connect with us on your favorite platforms:
+
+[![Twitter](https://img.shields.io/badge/Twitter-@localdiningguide-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/localdiningguide)  
+[![Facebook](https://img.shields.io/badge/Facebook-LocalDiningGuide-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/LocalDiningGuide)  
+[![Instagram](https://img.shields.io/badge/Instagram-@localdiningguide-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/localdiningguide)  
+
+
+
+We hope you enjoy using **Local Dining Guide** to discover fantastic dining options in your area!  
+**Bon appétit!**
 
